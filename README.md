@@ -1,11 +1,3 @@
-# ACCAD Trace Dashboard
+# Dashboard ACCAD
 
-Dashboard web de supervision ACCAD.
-
-## Import GitHub
-
-Importer le contenu de ce dossier dans un dépôt GitHub nommé `ACCAD-TRACE-DASHBOARD`.
-
-## État
-
-La structure de supervision est en place. Les statistiques et tableaux seront raccordés à l’API ACCAD dans l’étape suivante.
+Interface web de supervision, rapports, agents, tarifs, opérations, vérifications et audit. Les permissions seront appliquées côté API avant l’interface.

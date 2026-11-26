@@ -12,3 +12,7 @@ button { background: #0b6e99; color: white; border: 0; cursor: pointer; font-wei
 .muted { color: #64748b; }
 .status { padding: 10px 12px; border-radius: 8px; background: #eef6ff; margin-top: 12px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.password-field { display: flex; gap: 8px; align-items: stretch; }
+.password-field input { min-width: 0; }
+.toggle-code { width: auto; min-width: 92px; margin-top: 0; background: #e9eff8; color: #172033; }
+.toggle-code:hover { background: #dbe7f5; }

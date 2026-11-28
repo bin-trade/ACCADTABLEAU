@@ -1,1 +1,29 @@
-{"name":"ACCAD Trace Dashboard","short_name":"ACCAD Dashboard","lang":"fr-CD","start_url":"./","display":"standalone","background_color":"#f5f7fb","theme_color":"#0b3b60","icons":[{"src":"assets/accad-pack/icon-dashboard-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"assets/accad-pack/icon-dashboard-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"assets/accad-pack/icon-dashboard-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "name": "ACCAD Trace Dashboard",
+  "short_name": "ACCAD Dashboard",
+  "lang": "fr-CD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#0b3b60",
+  "icons": [
+    {
+      "src": "assets/accad-pack/icon-dashboard-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/accad-pack/icon-dashboard-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/accad-pack/icon-dashboard-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
 window.ACCAD_CONFIG = Object.freeze({
-  apiUrl: 'https://script.google.com/macros/s/AKfycbyrTzuxgNJ0CmPYZcLuV0bbKz1PPqo7lNW79sla_ExHbLpEG2K_VgzG59nmFCwAG3Nx/exec',
-  appVersion: '0.2.0'
+  apiUrl: 'https://script.google.com/macros/s/AKfycbz3ey8uEgwCkx51GW2YuEmeel0WFcjVnwerT96o0EtzMj43LzFEuzUP54wvLeJ_F78u3w/exec',
+  appVersion: '1.0.3'
 });

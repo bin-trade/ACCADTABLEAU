@@ -1,3 +1,3 @@
-# Dashboard ACCAD
+# ACCAD Trace Dashboard
 
-Interface web de supervision, rapports, agents, tarifs, opérations, vérifications et audit. Les permissions seront appliquées côté API avant l’interface.
+Version 1.0.3. Dossier prêt à publier tel quel. L'adresse du service central se règle dans web-core/config.js.
